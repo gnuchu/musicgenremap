@@ -44,7 +44,7 @@ sub insert_relation_record_text {
   $dbh->do($statement);
 }
 
-my $last_indent = 0;
+my $last_level = 0;
 my $parent_id = 0;
 my %tree = ();
 my @parent_ids = ();
@@ -56,13 +56,17 @@ while(<DATA>) {
   my $g = $_;
   my $current_indent = count_starting_spaces($g);
   my $level = current_level($current_indent);
+  say $level;
+  next;
+
   $g = ltrim($g);
 
-  if($current_indent == $last_indent) {
+  if($level == $last_level) {
     $last_id = insert_genre_record($g);
     if($parent_id == 0) {
       #first record
       push(@parent_ids, $last_id);
+      $parent_id = $last_id;
     }
     else {
       insert_relation_record($last_id, $parent_ids[$level]);
@@ -70,7 +74,7 @@ while(<DATA>) {
   }
   elsif ($current_indent > $last_indent) {
     $last_id = insert_genre_record($g);
-    insert_relation_record($last_id, $parent_ids[$level-1]);
+    insert_relation_record($last_id, $parent_ids[$level]);
     push(@parent_ids, $last_id);
 
   }
@@ -78,6 +82,7 @@ while(<DATA>) {
     pop(@parent_ids);
     $last_id = insert_genre_record($g);
     insert_relation_record($last_id, $parent_ids[$level]);
+    push(@parent_ids, $last_id);
   }
 }
 
