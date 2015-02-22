@@ -1,15 +1,14 @@
 use Modern::Perl;
 use autodie;
+use Data::Dumper;
 use DBI;
 use DBD::SQLite;
 
+`rm -rf music.sqlite3`;
 my $dbh = DBI->connect("dbi:SQLite:dbname=music.sqlite3","","",{RaiseError =>1}) || die "Couldnt connect to DB.";
-my $sth = $dbh->prepare('delete from genres; delete from genrehassubgenre;');
-$sth->execute();
-$sth->finish();
-
-
-sub ltrim { my $s = shift; $s =~ s/^\s+//;       return $s };
+$dbh->do("CREATE TABLE genres (id integer primary key autoincrement, name varchar(200))");
+$dbh->do("CREATE TABLE genrehassubgenre(parent_id integer, child_id integer)");
+$dbh->do("CREATE INDEX genrehassubgenre_idx on genrehassubgenre(parent_id, child_id)");
 
 sub count_starting_spaces {
   my $str = shift;
@@ -23,6 +22,8 @@ sub current_level {
   return ($indent==0) ? 0 : ($indent/2);
 }
 
+sub ltrim { my $s = shift; $s =~ s/^\s+//;       return $s };
+
 sub insert_genre_record {
   my $g = shift;
   my $statement = qq|insert into genres(name) values ("| . $g . qq|");|;
@@ -33,60 +34,52 @@ sub insert_genre_record {
 sub insert_relation_record {
   my $child = shift;
   my $parent = shift;
-  my $statement = qq|insert into genrehassubgenre(child_id, parent_id) values (| . $child . ',' . $parent . qq|);|;
+  my $statement = qq|insert into genrehassubgenre (parent_id, child_id) select a.id, b.id from genres a, genres b where a.name='$parent' and b.name='$child'|;
   $dbh->do($statement);
 }
 
-sub insert_relation_record_text {
-  my $child = shift;
-  my $parent = shift;
-  my $statement = qq|insert into genrehassubgenretext(child, parent) values ("| . $child . '","' . $parent . qq|"");|;
-  $dbh->do($statement);
-}
 
+my %parents = ();
+my $first = 1;
 my $last_level = 0;
-my $parent_id = 0;
-my %tree = ();
-my @parent_ids = ();
-my $statement = "";
-my $last_id = 0;
+my $my_parent = "";
+my $last_level_name = "";
 
 while(<DATA>) {
   chomp;
   my $g = $_;
-  my $current_indent = count_starting_spaces($g);
-  my $level = current_level($current_indent);
-  $g = ltrim($g);
+  my $starting_spaces = count_starting_spaces($g);
+  my $level = current_level($starting_spaces);
+  my $clean_value = ltrim($g);
+  insert_genre_record($clean_value);
 
-  if
-
-  if($level == $last_level) {
-    $last_id = insert_genre_record($g);
-    if($parent_id == 0) {
-      #first record
-      push(@parent_ids, $last_id);
-      $parent_id = $last_id;
+  if($level==$last_level){
+    if($first) {
+      $parents{$level} = $g;
+      $first = 0;
+      $my_parent = "I don't have a parent so I must be the root node.";
     }
     else {
-      insert_relation_record($last_id, $parent_ids[$level]);
+      $my_parent = $parents{$level};
+      insert_relation_record($clean_value, $my_parent);
     }
   }
-  elsif ($level > $last_level) {
-    $last_id = insert_genre_record($g);
-    insert_relation_record($last_id, $parent_ids[$level]);
-    push(@parent_ids, $last_id);
-
+  elsif($level > $last_level) {
+    $parents{$level} = $last_level_name;
+    $my_parent = $parents{$level};
+    insert_relation_record($clean_value, $my_parent);
   }
   elsif ($level < $last_level) {
-    pop(@parent_ids);
-    $last_id = insert_genre_record($g);
-    insert_relation_record($last_id, $parent_ids[$level]);
-    push(@parent_ids, $last_id);
+    $parents{$level+1} = undef;
+    $my_parent = $parents{$level};
+    insert_relation_record($clean_value, $my_parent);
   }
+
+  $last_level = $level;
+  $last_level_name = $clean_value;
+
 }
 
-
-$dbh->disconnect();
 
 __DATA__
 Music
