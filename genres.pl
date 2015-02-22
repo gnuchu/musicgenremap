@@ -56,10 +56,9 @@ while(<DATA>) {
   my $g = $_;
   my $current_indent = count_starting_spaces($g);
   my $level = current_level($current_indent);
-  say $level;
-  next;
-
   $g = ltrim($g);
+
+  if
 
   if($level == $last_level) {
     $last_id = insert_genre_record($g);
@@ -72,13 +71,13 @@ while(<DATA>) {
       insert_relation_record($last_id, $parent_ids[$level]);
     }
   }
-  elsif ($current_indent > $last_indent) {
+  elsif ($level > $last_level) {
     $last_id = insert_genre_record($g);
     insert_relation_record($last_id, $parent_ids[$level]);
     push(@parent_ids, $last_id);
 
   }
-  elsif ($current_indent < $last_indent) {
+  elsif ($level < $last_level) {
     pop(@parent_ids);
     $last_id = insert_genre_record($g);
     insert_relation_record($last_id, $parent_ids[$level]);
