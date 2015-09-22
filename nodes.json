@@ -1,0 +1,4019 @@
+{
+	id: "Musicnull",
+	name: "Music",
+	children: [
+  {
+    id: "African_popular_musicMusic",
+    name: "African popular music",
+    children: [
+      {
+        id: "African_heavy_metalAfrican_popular_music",
+        name: "African heavy metal",
+        children: []
+      },
+      {
+        id: "African_hip_hopAfrican_popular_music",
+        name: "African hip hop",
+        children: []
+      },
+      {
+        id: "AfrobeatAfrican_popular_music",
+        name: "Afrobeat",
+        children: []
+      },
+      {
+        id: "ApalaAfrican_popular_music",
+        name: "Apala",
+        children: []
+      },
+      {
+        id: "BengaAfrican_popular_music",
+        name: "Benga",
+        children: []
+      },
+      {
+        id: "Bongo_FlavaAfrican_popular_music",
+        name: "Bongo Flava",
+        children: []
+      },
+      {
+        id: "BikutsiAfrican_popular_music",
+        name: "Bikutsi",
+        children: []
+      },
+      {
+        id: "Cape_JazzAfrican_popular_music",
+        name: "Cape Jazz",
+        children: []
+      },
+      {
+        id: "ChimurengaAfrican_popular_music",
+        name: "Chimurenga",
+        children: []
+      },
+      {
+        id: "Coupé-DécaléAfrican_popular_music",
+        name: "Coupé-Décalé",
+        children: []
+      },
+      {
+        id: "Fuji_musicAfrican_popular_music",
+        name: "Fuji music",
+        children: []
+      },
+      {
+        id: "GengeAfrican_popular_music",
+        name: "Genge",
+        children: []
+      },
+      {
+        id: "HighlifeAfrican_popular_music",
+        name: "Highlife",
+        children: []
+      },
+      {
+        id: "HiplifeAfrican_popular_music",
+        name: "Hiplife",
+        children: []
+      },
+      {
+        id: "Igbo_highlifeAfrican_popular_music",
+        name: "Igbo highlife",
+        children: []
+      },
+      {
+        id: "Igbo_rapAfrican_popular_music",
+        name: "Igbo rap",
+        children: []
+      },
+      {
+        id: "IsicathamiyaAfrican_popular_music",
+        name: "Isicathamiya",
+        children: []
+      },
+      {
+        id: "JitAfrican_popular_music",
+        name: "Jit",
+        children: []
+      },
+      {
+        id: "JùjúAfrican_popular_music",
+        name: "Jùjú",
+        children: []
+      },
+      {
+        id: "Kapuka_aka_BoombaAfrican_popular_music",
+        name: "Kapuka aka Boomba",
+        children: []
+      },
+      {
+        id: "KadodiAfrican_popular_music",
+        name: "Kadodi",
+        children: []
+      },
+      {
+        id: "Kadongo_KamuAfrican_popular_music",
+        name: "Kadongo Kamu",
+        children: []
+      },
+      {
+        id: "KizombaAfrican_popular_music",
+        name: "Kizomba",
+        children: []
+      },
+      {
+        id: "KuduroAfrican_popular_music",
+        name: "Kuduro",
+        children: []
+      },
+      {
+        id: "KwaitoAfrican_popular_music",
+        name: "Kwaito",
+        children: []
+      },
+      {
+        id: "KwelaAfrican_popular_music",
+        name: "Kwela",
+        children: []
+      },
+      {
+        id: "MakossaAfrican_popular_music",
+        name: "Makossa",
+        children: []
+      },
+      {
+        id: "MaloyaAfrican_popular_music",
+        name: "Maloya",
+        children: []
+      },
+      {
+        id: "MarrabentaAfrican_popular_music",
+        name: "Marrabenta",
+        children: []
+      },
+      {
+        id: "MbalaxAfrican_popular_music",
+        name: "Mbalax",
+        children: []
+      },
+      {
+        id: "Museve_aka_SunguraAfrican_popular_music",
+        name: "Museve aka Sungura",
+        children: []
+      },
+      {
+        id: "MbaqangaAfrican_popular_music",
+        name: "Mbaqanga",
+        children: []
+      },
+      {
+        id: "MbubeAfrican_popular_music",
+        name: "Mbube",
+        children: []
+      },
+      {
+        id: "MornaAfrican_popular_music",
+        name: "Morna",
+        children: []
+      },
+      {
+        id: "Palm-wineAfrican_popular_music",
+        name: "Palm-wine",
+        children: []
+      },
+      {
+        id: "RumbaAfrican_popular_music",
+        name: "Rumba",
+        children: []
+      },
+      {
+        id: "RaïAfrican_popular_music",
+        name: "Raï",
+        children: []
+      },
+      {
+        id: "SakaraAfrican_popular_music",
+        name: "Sakara",
+        children: []
+      },
+      {
+        id: "SegaAfrican_popular_music",
+        name: "Sega",
+        children: []
+      },
+      {
+        id: "SeggaeAfrican_popular_music",
+        name: "Seggae",
+        children: []
+      },
+      {
+        id: "SembaAfrican_popular_music",
+        name: "Semba",
+        children: []
+      },
+      {
+        id: "Soukous_aka_Congo,_Lingala_or_African_rumbaAfrican_popular_music",
+        name: "Soukous aka Congo, Lingala or African rumba",
+        children: []
+      },
+      {
+        id: "TaarabAfrican_popular_music",
+        name: "Taarab",
+        children: []
+      },
+      {
+        id: "Zouglou_Cote_D''IvoireAfrican_popular_music",
+        name: "Zouglou Cote D''Ivoire",
+        children: []
+      }
+    ]
+  },
+  {
+    id: "Asian_musicMusic",
+    name: "Asian music",
+    children: [
+      {
+        id: "Fann_at-TanburaAsian_music",
+        name: "Fann at-Tanbura",
+        children: []
+      },
+      {
+        id: "FijiriAsian_music",
+        name: "Fijiri",
+        children: []
+      },
+      {
+        id: "KhalijiAsian_music",
+        name: "Khaliji",
+        children: []
+      },
+      {
+        id: "LiwaAsian_music",
+        name: "Liwa",
+        children: []
+      },
+      {
+        id: "SawtAsian_music",
+        name: "Sawt",
+        children: []
+      }
+    ]
+  },
+  {
+    id: "East_AsianMusic",
+    name: "East Asian",
+    children: [
+      {
+        id: "AnisonEast_Asian",
+        name: "Anison",
+        children: []
+      },
+      {
+        id: "CantopopEast_Asian",
+        name: "Cantopop",
+        children: []
+      },
+      {
+        id: "C-popEast_Asian",
+        name: "C-pop",
+        children: []
+      },
+      {
+        id: "EnkaEast_Asian",
+        name: "Enka",
+        children: []
+      },
+      {
+        id: "Hong_Kong_English_popEast_Asian",
+        name: "Hong Kong English pop",
+        children: []
+      },
+      {
+        id: "J-popEast_Asian",
+        name: "J-pop",
+        children: []
+      },
+      {
+        id: "Kay&#333;kyokuEast_Asian",
+        name: "Kay&#333;kyoku",
+        children: []
+      },
+      {
+        id: "K-popEast_Asian",
+        name: "K-pop",
+        children: []
+      },
+      {
+        id: "MandopopEast_Asian",
+        name: "Mandopop",
+        children: []
+      },
+      {
+        id: "OnkyokeiEast_Asian",
+        name: "Onkyokei",
+        children: []
+      },
+      {
+        id: "Taiwanese_popEast_Asian",
+        name: "Taiwanese pop",
+        children: []
+      },
+    ]
+  },
+  {
+    id: "South_and_southeast_AsianMusic",
+    name: "South and southeast Asian",
+    children: [
+
+      {
+        id: "BailaSouth_and_southeast_Asian",
+        name: "Baila",
+        children: []
+      },
+      {
+        id: "BaulSouth_and_southeast_Asian",
+        name: "Baul",
+        children: []
+      },
+      {
+        id: "BhangraSouth_and_southeast_Asian",
+        name: "Bhangra",
+        children: []
+      },
+      {
+        id: "DangdutSouth_and_southeast_Asian",
+        name: "Dangdut",
+        children: []
+      },
+      {
+        id: "FilmiSouth_and_southeast_Asian",
+        name: "Filmi",
+        children: []
+      },
+      {
+        id: "Indian_popSouth_and_southeast_Asian",
+        name: "Indian pop",
+        children: []
+      },
+      {
+        id: "LavaniSouth_and_southeast_Asian",
+        name: "Lavani",
+        children: []
+      },
+      {
+        id: "Luk_ThungSouth_and_southeast_Asian",
+        name: "Luk Thung",
+        children: [
+          {
+            id: "Luk_KrungSouth_and_southeast_Asian",
+            name: "Luk Krung",
+            children: []
+          },
+        ]
+      },
+      {
+        id: "Manila_SoundSouth_and_southeast_Asian",
+        name: "Manila Sound",
+        children: [
+          {
+            id: "Original_Pilipino_MusicSouth_and_southeast_Asian",
+            name: "Original Pilipino Music",
+            children: []
+          },
+        ]
+      },
+      {
+        id: "V-popSouth_and_southeast_Asian",
+        name: "V-pop",
+        children: []
+      },
+      {
+        id: "MorlamSouth_and_southeast_Asian",
+        name: "Morlam",
+        children: []
+      },
+      {
+        id: "Pinoy_popSouth_and_southeast_Asian",
+        name: "Pinoy pop",
+        children: []
+      },
+      {
+        id: "Pop_sundaSouth_and_southeast_Asian",
+        name: "Pop sunda",
+        children: []
+      },
+      {
+        id: "Thai_popSouth_and_southeast_Asian",
+        name: "Thai pop",
+        children: []
+      },
+      {
+        id: "RaginiSouth_and_southeast_Asian",
+        name: "Ragini",
+        children: []
+      },
+      {
+        id: "KeroncongSouth_and_southeast_Asian",
+        name: "Keroncong",
+        children: []
+      },
+      {
+        id: "Campursari_/_pop_jawaSouth_and_southeast_Asian",
+        name: "Campursari / pop jawa",
+        children: []
+      },
+      {
+        id: "GamelanSouth_and_southeast_Asian",
+        name: "Gamelan",
+        children: []
+      }
+    ]
+  },
+  {
+    id: "Avant-gardeMusic",
+    name: "Avant-garde",
+    children: [
+      {
+        id: "Experimental_musicAvant-garde",
+        name: "Experimental music",
+        children: []
+      },
+      {
+        id: "NoiseAvant-garde",
+        name: "Noise",
+        children: []
+      },
+      {
+        id: "Lo-fiAvant-garde",
+        name: "Lo-fi",
+        children: []
+      },
+      {
+        id: "Musique_concrèteAvant-garde",
+        name: "Musique concrète",
+        children: []
+      },
+      {
+        id: "ElectroacousticAvant-garde",
+        name: "Electroacoustic",
+        children: []
+      }
+    ]
+  },
+  {
+    id: "BluesMusic",
+    name: "Blues",
+    children: [
+      {
+        id: "African_bluesBlues",
+        name: "African blues",
+        children: []
+      },
+      {
+        id: "Blues_rockBlues",
+        name: "Blues rock",
+        children: []
+      },
+      {
+        id: "Blues_shouterBlues",
+        name: "Blues shouter",
+        children: []
+      },
+      {
+        id: "British_bluesBlues",
+        name: "British blues",
+        children: []
+      },
+      {
+        id: "Canadian_bluesBlues",
+        name: "Canadian blues",
+        children: []
+      },
+      {
+        id: "Chicago_bluesBlues",
+        name: "Chicago blues",
+        children: []
+      },
+      {
+        id: "Classic_female_bluesBlues",
+        name: "Classic female blues",
+        children: []
+      },
+      {
+        id: "Contemporary_R&BBlues",
+        name: "Contemporary R&B",
+        children: []
+      },
+      {
+        id: "Country_bluesBlues",
+        name: "Country blues",
+        children: []
+      },
+      {
+        id: "Delta_bluesBlues",
+        name: "Delta blues",
+        children: []
+      },
+      {
+        id: "Detroit_bluesBlues",
+        name: "Detroit blues",
+        children: []
+      },
+      {
+        id: "Electric_bluesBlues",
+        name: "Electric blues",
+        children: []
+      },
+      {
+        id: "Gospel_bluesBlues",
+        name: "Gospel blues",
+        children: []
+      },
+      {
+        id: "Hill_country_bluesBlues",
+        name: "Hill country blues",
+        children: []
+      },
+      {
+        id: "Hokum_bluesBlues",
+        name: "Hokum blues",
+        children: []
+      },
+      {
+        id: "Jazz_bluesBlues",
+        name: "Jazz blues",
+        children: []
+      },
+      {
+        id: "Jump_bluesBlues",
+        name: "Jump blues",
+        children: []
+      },
+      {
+        id: "Kansas_City_bluesBlues",
+        name: "Kansas City blues",
+        children: []
+      },
+      {
+        id: "Louisiana_bluesBlues",
+        name: "Louisiana blues",
+        children: []
+      },
+      {
+        id: "Memphis_bluesBlues",
+        name: "Memphis blues",
+        children: []
+      },
+      {
+        id: "Piano_bluesBlues",
+        name: "Piano blues",
+        children: []
+      },
+      {
+        id: "Piedmont_bluesBlues",
+        name: "Piedmont blues",
+        children: []
+      },
+      {
+        id: "Punk_bluesBlues",
+        name: "Punk blues",
+        children: []
+      },
+      {
+        id: "Rhythm_and_bluesBlues",
+        name: "Rhythm and blues",
+        children: []
+      },
+      {
+        id: "Soul_bluesBlues",
+        name: "Soul blues",
+        children: []
+      },
+      {
+        id: "St._Louis_bluesBlues",
+        name: "St. Louis blues",
+        children: []
+      },
+      {
+        id: "Swamp_bluesBlues",
+        name: "Swamp blues",
+        children: []
+      },
+      {
+        id: "Texas_bluesBlues",
+        name: "Texas blues",
+        children: []
+      },
+      {
+        id: "West_Coast_bluesBlues",
+        name: "West Coast blues",
+        children: []
+      }
+    ]
+  },
+  {
+    id: "Caribbean_and_Caribbean-influencedMusic",
+    name: "Caribbean and Caribbean-influenced",
+    children: [
+      {
+        id: "Baithak_GanaCaribbean_and_Caribbean-influenced",
+        name: "Baithak Gana",
+        children: []
+      },
+      {
+        id: "CalypsoCaribbean_and_Caribbean-influenced",
+        name: "Calypso",
+        children: []
+      },
+      {
+        id: "ChutneyCaribbean_and_Caribbean-influenced",
+        name: "Chutney",
+        children: []
+      },
+      {
+        id: "Chutney_socaCaribbean_and_Caribbean-influenced",
+        name: "Chutney soca",
+        children: []
+      },
+      {
+        id: "CompasCaribbean_and_Caribbean-influenced",
+        name: "Compas",
+        children: []
+      },
+      {
+        id: "PuntaCaribbean_and_Caribbean-influenced",
+        name: "Punta",
+        children: []
+      },
+      {
+        id: "Punta_RockCaribbean_and_Caribbean-influenced",
+        name: "Punta Rock",
+        children: []
+      },
+      {
+        id: "RasinCaribbean_and_Caribbean-influenced",
+        name: "Rasin",
+        children: []
+      },
+      {
+        id: "ReggaeCaribbean_and_Caribbean-influenced",
+        name: "Reggae",
+        children: [
+          {
+            id: "DancehallReggae",
+            name: "Dancehall",
+            children: []
+          },
+          {
+            id: "DubReggae",
+            name: "Dub",
+            children: []
+          },
+          {
+            id: "Lovers_rockReggae",
+            name: "Lovers rock",
+            children: []
+          },
+          {
+            id: "RaggaReggae",
+            name: "Ragga",
+            children: []
+          },
+          {
+            id: "Ragga_jungleReggae",
+            name: "Ragga jungle",
+            children: []
+          },
+          {
+            id: "Reggae_fusionReggae",
+            name: "Reggae fusion",
+            children: []
+          },
+          {
+            id: "ReggaetonReggae",
+            name: "Reggaeton",
+            children: []
+          },
+        ]
+      },
+      {
+        id: "RocksteadyCaribbean_and_Caribbean-influenced",
+        name: "Rocksteady",
+        children: []
+      },
+      {
+        id: "SkaCaribbean_and_Caribbean-influenced",
+        name: "Ska",
+        children: [
+          {
+            id: "2_ToneSka",
+            name: "2 Tone",
+            children: []
+          },
+          {
+            id: "Ska_punkSka",
+            name: "Ska punk",
+            children: []
+          }
+        ]
+      },
+      {
+        id: "SocaCaribbean_and_Caribbean-influenced",
+        name: "Soca",
+        children: []
+      },
+      {
+        id: "TwoubadouCaribbean_and_Caribbean-influenced",
+        name: "Twoubadou",
+        children: []
+      },
+      {
+        id: "ZoukCaribbean_and_Caribbean-influenced",
+        name: "Zouk",
+        children: []
+      }
+    ]
+  },
+  {
+    id: "Comedy_musicMusic",
+    name: "Comedy music",
+    children: [
+      {
+        id: "Comedy_rockComedy_music",
+        name: "Comedy rock",
+        children: []
+      },
+      {
+        id: "Novelty_musicComedy_music",
+        name: "Novelty music",
+        children: []
+      },
+      {
+        id: "Parody_musicComedy_music",
+        name: "Parody music",
+        children: []
+      },
+    ]
+  },
+  {
+    id: "Country_musicMusic",
+    name: "Country music",
+    children: [
+
+  {
+    id: "Alternative_countryCountry_music",
+    name: "Alternative country",
+    children: [
+      {
+        id: "CowpunkAlternative_country",
+        name: "Cowpunk",
+        children: []
+      }
+    ]
+  },
+  {
+    id: "Blues_countryCountry_music",
+    name: "Blues country",
+    children: []
+  },
+  {
+    id: "HokumCountry_music",
+    name: "Hokum",
+    children: []
+  },
+  {
+    id: "Outlaw_countryCountry_music",
+    name: "Outlaw country",
+    children: []
+  },
+  {
+    id: "Progressive_countryCountry_music",
+    name: "Progressive country",
+    children: []
+  },
+  {
+    id: "ZydecoCountry_music",
+    name: "Zydeco",
+    children: []
+  },
+  {
+    id: "Country_rapCountry_music",
+    name: "Country rap",
+    children: []
+  },
+  {
+    id: "Red_DirtCountry_music",
+    name: "Red Dirt",
+    children: []
+  },
+  {
+    id: "RockabillyCountry_music",
+    name: "Rockabilly",
+    children: [
+      {
+        id: "Hellbilly_musicRockabilly",
+        name: "Hellbilly music",
+        children: []
+      },
+      {
+        id: "Psychobilly/PunkabillyRockabilly",
+        name: "Psychobilly/Punkabilly",
+        children: []
+      }
+    ]
+  },
+  {
+    id: "Country_rockCountry_music",
+    name: "Country rock",
+    children: []
+  },
+  {
+    id: "Texas_countryCountry_music",
+    name: "Texas country",
+    children: []
+  },
+  {
+    id: "AmericanaCountry_music",
+    name: "Americana",
+    children: []
+  },
+  {
+    id: "Australian_country_musicCountry_music",
+    name: "Australian country music",
+    children: []
+  },
+  {
+    id: "Bakersfield_soundCountry_music",
+    name: "Bakersfield sound",
+    children: []
+  },
+  {
+    id: "BluegrassCountry_music",
+    name: "Bluegrass",
+    children: [
+      {
+        id: "Progressive_bluegrassBluegrass",
+        name: "Progressive bluegrass",
+        children: []
+      },
+      {
+        id: "Reactionary_bluegrassBluegrass",
+        name: "Reactionary bluegrass",
+        children: []
+      }
+    ]
+  },
+  {
+    id: "CajunCountry_music",
+    name: "Cajun",
+    children: []
+  },
+  {
+    id: "Cajun_fiddle_tunesCajun",
+    name: "Cajun fiddle tunes",
+    children: []
+  },
+  {
+    id: "Christian_country_musicCountry_music",
+    name: "Christian country music",
+    children: []
+  },
+  {
+    id: "Classic_countryCountry_music",
+    name: "Classic country",
+    children: []
+  },
+  {
+    id: "Close_harmonyCountry_music",
+    name: "Close harmony",
+    children: []
+  },
+  {
+    id: "Dansband_musicCountry_music",
+    name: "Dansband music",
+    children: []
+  },
+  {
+    id: "Franco-countryCountry_music",
+    name: "Franco-country",
+    children: []
+  },
+  {
+    id: "Gulf_and_westernCountry_music",
+    name: "Gulf and western",
+    children: []
+  },
+  {
+    id: "Honky_TonkCountry_music",
+    name: "Honky Tonk",
+    children: []
+  },
+  {
+    id: "Instrumental_countryCountry_music",
+    name: "Instrumental country",
+    children: []
+  },
+  {
+    id: "Lubbock_soundCountry_music",
+    name: "Lubbock sound",
+    children: []
+  },
+  {
+    id: "Nashville_soundCountry_music",
+    name: "Nashville sound",
+    children: []
+  },
+  {
+    id: "Neotraditional_countryCountry_music",
+    name: "Neotraditional country",
+    children: []
+  },
+  {
+    id: "Country_popCountry_music",
+    name: "Country pop",
+    children: []
+  },
+  {
+    id: "SertanejoCountry_music",
+    name: "Sertanejo",
+    children: []
+  },
+  {
+    id: "Traditional_country_musicCountry_music",
+    name: "Traditional country music",
+    children: []
+  },
+  {
+    id: "Truck-driving_countryCountry_music",
+    name: "Truck-driving country",
+    children: []
+  },
+  {
+    id: "Western_swingCountry_music",
+    name: "Western swing",
+    children: []
+  },
+
+
+
+
+    ]
+  },
+  
+
+
+
+
+  {
+    id: "Easy_listeningMusic",
+    name: "Easy listening",
+    children: []
+  },
+  {
+    id: "Background_musicEasy_listening",
+    name: "Background music",
+    children: []
+  },
+  {
+    id: "Beautiful_musicEasy_listening",
+    name: "Beautiful music",
+    children: []
+  },
+  {
+    id: "Elevator_musicEasy_listening",
+    name: "Elevator music",
+    children: []
+  },
+  {
+    id: "Furniture_musicEasy_listening",
+    name: "Furniture music",
+    children: []
+  },
+  {
+    id: "Lounge_musicEasy_listening",
+    name: "Lounge music",
+    children: []
+  },
+  {
+    id: "Middle_of_the_roadEasy_listening",
+    name: "Middle of the road",
+    children: []
+  },
+  {
+    id: "New-age_musicEasy_listening",
+    name: "New-age music",
+    children: []
+  },
+  {
+    id: "Electronic_musicMusic",
+    name: "Electronic music",
+    children: []
+  },
+  {
+    id: "AmbientElectronic_music",
+    name: "Ambient",
+    children: []
+  },
+  {
+    id: "Ambient_dubAmbient",
+    name: "Ambient dub",
+    children: []
+  },
+  {
+    id: "Ambient_houseAmbient",
+    name: "Ambient house",
+    children: []
+  },
+  {
+    id: "Ambient_technoAmbient",
+    name: "Ambient techno",
+    children: []
+  },
+  {
+    id: "Dark_ambientAmbient",
+    name: "Dark ambient",
+    children: []
+  },
+  {
+    id: "Drone_musicAmbient",
+    name: "Drone music",
+    children: []
+  },
+  {
+    id: "IllbientAmbient",
+    name: "Illbient",
+    children: []
+  },
+  {
+    id: "IsolationismAmbient",
+    name: "Isolationism",
+    children: []
+  },
+  {
+    id: "LowercaseAmbient",
+    name: "Lowercase",
+    children: []
+  },
+  {
+    id: "Asian_UndergroundElectronic_music",
+    name: "Asian Underground",
+    children: []
+  },
+  {
+    id: "BreakbeatElectronic_music",
+    name: "Breakbeat",
+    children: []
+  },
+  {
+    id: "Acid_breaksBreakbeat",
+    name: "Acid breaks",
+    children: []
+  },
+  {
+    id: "Baltimore_ClubBreakbeat",
+    name: "Baltimore Club",
+    children: []
+  },
+  {
+    id: "Big_beatBreakbeat",
+    name: "Big beat",
+    children: []
+  },
+  {
+    id: "Breakbeat_hardcoreBreakbeat",
+    name: "Breakbeat hardcore",
+    children: []
+  },
+  {
+    id: "Broken_beatBreakbeat",
+    name: "Broken beat",
+    children: []
+  },
+  {
+    id: "Florida_breaksBreakbeat",
+    name: "Florida breaks",
+    children: []
+  },
+  {
+    id: "Nu_skool_breaksBreakbeat",
+    name: "Nu skool breaks",
+    children: []
+  },
+  {
+    id: "4-beatBreakbeat",
+    name: "4-beat",
+    children: []
+  },
+  {
+    id: "ChiptuneElectronic_music",
+    name: "Chiptune",
+    children: []
+  },
+  {
+    id: "BitpopChiptune",
+    name: "Bitpop",
+    children: []
+  },
+  {
+    id: "Game_Boy_musicChiptune",
+    name: "Game Boy music",
+    children: []
+  },
+  {
+    id: "NintendocoreChiptune",
+    name: "Nintendocore",
+    children: []
+  },
+  {
+    id: "Video_game_musicChiptune",
+    name: "Video game music",
+    children: []
+  },
+  {
+    id: "Yorkshire_Bleeps_and_BassChiptune",
+    name: "Yorkshire Bleeps and Bass",
+    children: []
+  },
+  {
+    id: "DiscoElectronic_music",
+    name: "Disco",
+    children: []
+  },
+  {
+    id: "Cosmic_discoDisco",
+    name: "Cosmic disco",
+    children: []
+  },
+  {
+    id: "Disco_poloDisco",
+    name: "Disco polo",
+    children: []
+  },
+  {
+    id: "EuropopDisco",
+    name: "Europop",
+    children: []
+  },
+  {
+    id: "Euro_discoDisco",
+    name: "Euro disco",
+    children: []
+  },
+  {
+    id: "Space_discoDisco",
+    name: "Space disco",
+    children: []
+  },
+  {
+    id: "Italo_discoDisco",
+    name: "Italo disco",
+    children: []
+  },
+  {
+    id: "Nu-discoDisco",
+    name: "Nu-disco",
+    children: []
+  },
+  {
+    id: "DowntempoElectronic_music",
+    name: "Downtempo",
+    children: []
+  },
+  {
+    id: "Acid_jazzDowntempo",
+    name: "Acid jazz",
+    children: []
+  },
+  {
+    id: "Balearic_BeatDowntempo",
+    name: "Balearic Beat",
+    children: []
+  },
+  {
+    id: "Chill_outDowntempo",
+    name: "Chill out",
+    children: []
+  },
+  {
+    id: "Dub_musicDowntempo",
+    name: "Dub music",
+    children: []
+  },
+  {
+    id: "DubtronicaDowntempo",
+    name: "Dubtronica",
+    children: []
+  },
+  {
+    id: "Ethnic_electronicaDowntempo",
+    name: "Ethnic electronica",
+    children: []
+  },
+  {
+    id: "MoombahtonDowntempo",
+    name: "Moombahton",
+    children: []
+  },
+  {
+    id: "New-age_musicDowntempo",
+    name: "New-age music",
+    children: []
+  },
+  {
+    id: "Nu_jazzDowntempo",
+    name: "Nu jazz",
+    children: []
+  },
+  {
+    id: "Trip_hopDowntempo",
+    name: "Trip hop",
+    children: []
+  },
+  {
+    id: "Drum_and_bassElectronic_music",
+    name: "Drum and bass",
+    children: []
+  },
+  {
+    id: "DarkcoreDrum_and_bass",
+    name: "Darkcore",
+    children: []
+  },
+  {
+    id: "DarkstepDrum_and_bass",
+    name: "Darkstep",
+    children: []
+  },
+  {
+    id: "DrumfunkDrum_and_bass",
+    name: "Drumfunk",
+    children: []
+  },
+  {
+    id: "DrumstepDrum_and_bass",
+    name: "Drumstep",
+    children: []
+  },
+  {
+    id: "HardstepDrum_and_bass",
+    name: "Hardstep",
+    children: []
+  },
+  {
+    id: "Intelligent_drum_and_bassDrum_and_bass",
+    name: "Intelligent drum and bass",
+    children: []
+  },
+  {
+    id: "Jump-UpDrum_and_bass",
+    name: "Jump-Up",
+    children: []
+  },
+  {
+    id: "Liquid_funkDrum_and_bass",
+    name: "Liquid funk",
+    children: []
+  },
+  {
+    id: "NeurofunkDrum_and_bass",
+    name: "Neurofunk",
+    children: []
+  },
+  {
+    id: "Oldschool_jungleDrum_and_bass",
+    name: "Oldschool jungle",
+    children: []
+  },
+  {
+    id: "Darkside_jungleOldschool_jungle",
+    name: "Darkside jungle",
+    children: []
+  },
+  {
+    id: "Ragga-jungleOldschool_jungle",
+    name: "Ragga-jungle",
+    children: []
+  },
+  {
+    id: "RaggacoreDrum_and_bass",
+    name: "Raggacore",
+    children: []
+  },
+  {
+    id: "SambassDrum_and_bass",
+    name: "Sambass",
+    children: []
+  },
+  {
+    id: "TechstepDrum_and_bass",
+    name: "Techstep",
+    children: []
+  },
+  {
+    id: "ElectroElectronic_music",
+    name: "Electro",
+    children: []
+  },
+  {
+    id: "CrunkElectro",
+    name: "Crunk",
+    children: []
+  },
+  {
+    id: "Electro_backbeatElectro",
+    name: "Electro backbeat",
+    children: []
+  },
+  {
+    id: "Electro-grimeElectro",
+    name: "Electro-grime",
+    children: []
+  },
+  {
+    id: "ElectropopElectro",
+    name: "Electropop",
+    children: []
+  },
+  {
+    id: "ElectroacousticElectronic_music",
+    name: "Electroacoustic",
+    children: []
+  },
+  {
+    id: "Acousmatic_musicElectroacoustic",
+    name: "Acousmatic music",
+    children: []
+  },
+  {
+    id: "Computer_musicElectroacoustic",
+    name: "Computer music",
+    children: []
+  },
+  {
+    id: "Electroacoustic_improvisationElectroacoustic",
+    name: "Electroacoustic improvisation",
+    children: []
+  },
+  {
+    id: "Field_recordingElectroacoustic",
+    name: "Field recording",
+    children: []
+  },
+  {
+    id: "Live_electronicsElectroacoustic",
+    name: "Live electronics",
+    children: []
+  },
+  {
+    id: "Live_codingElectroacoustic",
+    name: "Live coding",
+    children: []
+  },
+  {
+    id: "Musique_concrèteElectroacoustic",
+    name: "Musique concrète",
+    children: []
+  },
+  {
+    id: "Soundscape_compositionElectroacoustic",
+    name: "Soundscape composition",
+    children: []
+  },
+  {
+    id: "Tape_musicElectroacoustic",
+    name: "Tape music",
+    children: []
+  },
+  {
+    id: "ElectronicaElectronic_music",
+    name: "Electronica",
+    children: []
+  },
+  {
+    id: "Berlin_schoolElectronica",
+    name: "Berlin school",
+    children: []
+  },
+  {
+    id: "ChillwaveElectronica",
+    name: "Chillwave",
+    children: []
+  },
+  {
+    id: "Electronic_art_musicElectronica",
+    name: "Electronic art music",
+    children: []
+  },
+  {
+    id: "Electronic_dance_musicElectronica",
+    name: "Electronic dance music",
+    children: []
+  },
+  {
+    id: "FolktronicaElectronica",
+    name: "Folktronica",
+    children: []
+  },
+  {
+    id: "Freestyle_musicElectronica",
+    name: "Freestyle music",
+    children: []
+  },
+  {
+    id: "IDMElectronica",
+    name: "IDM",
+    children: []
+  },
+  {
+    id: "GlitchElectronica",
+    name: "Glitch",
+    children: []
+  },
+  {
+    id: "LaptronicaElectronica",
+    name: "Laptronica",
+    children: []
+  },
+  {
+    id: "SkweeeElectronica",
+    name: "Skweee",
+    children: []
+  },
+  {
+    id: "Sound_artElectronica",
+    name: "Sound art",
+    children: []
+  },
+  {
+    id: "SynthcoreElectronica",
+    name: "Synthcore",
+    children: []
+  },
+  {
+    id: "Electronic_rockElectronic_music",
+    name: "Electronic rock",
+    children: []
+  },
+  {
+    id: "Alternative_danceElectronic_rock",
+    name: "Alternative dance",
+    children: []
+  },
+  {
+    id: "BaggyAlternative_dance",
+    name: "Baggy",
+    children: []
+  },
+  {
+    id: "MadchesterAlternative_dance",
+    name: "Madchester",
+    children: []
+  },
+  {
+    id: "Dance-punkElectronic_rock",
+    name: "Dance-punk",
+    children: []
+  },
+  {
+    id: "Dance-rockElectronic_rock",
+    name: "Dance-rock",
+    children: []
+  },
+  {
+    id: "Dark_WaveElectronic_rock",
+    name: "Dark Wave",
+    children: []
+  },
+  {
+    id: "ElectroclashElectronic_rock",
+    name: "Electroclash",
+    children: []
+  },
+  {
+    id: "ElectronicoreElectronic_rock",
+    name: "Electronicore",
+    children: []
+  },
+  {
+    id: "ElectropunkElectronic_rock",
+    name: "Electropunk",
+    children: []
+  },
+  {
+    id: "Ethereal_waveElectronic_rock",
+    name: "Ethereal wave",
+    children: []
+  },
+  {
+    id: "IndietronicaElectronic_rock",
+    name: "Indietronica",
+    children: []
+  },
+  {
+    id: "New_raveElectronic_rock",
+    name: "New rave",
+    children: []
+  },
+  {
+    id: "Space_rockElectronic_rock",
+    name: "Space rock",
+    children: []
+  },
+  {
+    id: "SynthpopElectronic_rock",
+    name: "Synthpop",
+    children: []
+  },
+  {
+    id: "SynthpunkElectronic_rock",
+    name: "Synthpunk",
+    children: []
+  },
+  {
+    id: "EurodanceElectronic_music",
+    name: "Eurodance",
+    children: []
+  },
+  {
+    id: "Bubblegum_danceEurodance",
+    name: "Bubblegum dance",
+    children: []
+  },
+  {
+    id: "Italo_danceEurodance",
+    name: "Italo dance",
+    children: []
+  },
+  {
+    id: "TurbofolkEurodance",
+    name: "Turbofolk",
+    children: []
+  },
+  {
+    id: "Hardcore/Hard_danceElectronic_music",
+    name: "Hardcore/Hard dance",
+    children: []
+  },
+  {
+    id: "Bouncy_houseHardcore/Hard_dance",
+    name: "Bouncy house",
+    children: []
+  },
+  {
+    id: "Bouncy_technoHardcore/Hard_dance",
+    name: "Bouncy techno",
+    children: []
+  },
+  {
+    id: "BreakcoreHardcore/Hard_dance",
+    name: "Breakcore",
+    children: []
+  },
+  {
+    id: "DarkcoreHardcore/Hard_dance",
+    name: "Darkcore",
+    children: []
+  },
+  {
+    id: "Digital_hardcoreHardcore/Hard_dance",
+    name: "Digital hardcore",
+    children: []
+  },
+  {
+    id: "DoomcoreHardcore/Hard_dance",
+    name: "Doomcore",
+    children: []
+  },
+  {
+    id: "DubstyleHardcore/Hard_dance",
+    name: "Dubstyle",
+    children: []
+  },
+  {
+    id: "GabberHardcore/Hard_dance",
+    name: "Gabber",
+    children: []
+  },
+  {
+    id: "Happy_hardcoreHardcore/Hard_dance",
+    name: "Happy hardcore",
+    children: []
+  },
+  {
+    id: "HardstyleHardcore/Hard_dance",
+    name: "Hardstyle",
+    children: []
+  },
+  {
+    id: "JumpstyleHardcore/Hard_dance",
+    name: "Jumpstyle",
+    children: []
+  },
+  {
+    id: "MakinaHardcore/Hard_dance",
+    name: "Makina",
+    children: []
+  },
+  {
+    id: "SpeedcoreHardcore/Hard_dance",
+    name: "Speedcore",
+    children: []
+  },
+  {
+    id: "TerrorcoreHardcore/Hard_dance",
+    name: "Terrorcore",
+    children: []
+  },
+  {
+    id: "UK_hardcoreHardcore/Hard_dance",
+    name: "UK hardcore",
+    children: []
+  },
+  {
+    id: "Hi-NRGElectronic_music",
+    name: "Hi-NRG",
+    children: []
+  },
+  {
+    id: "EurobeatHi-NRG",
+    name: "Eurobeat",
+    children: []
+  },
+  {
+    id: "Hard_NRGHi-NRG",
+    name: "Hard NRG",
+    children: []
+  },
+  {
+    id: "New_BeatHi-NRG",
+    name: "New Beat",
+    children: []
+  },
+  {
+    id: "HouseElectronic_music",
+    name: "House",
+    children: []
+  },
+  {
+    id: "Acid_houseHouse",
+    name: "Acid house",
+    children: []
+  },
+  {
+    id: "Chicago_houseHouse",
+    name: "Chicago house",
+    children: []
+  },
+  {
+    id: "Deep_houseHouse",
+    name: "Deep house",
+    children: []
+  },
+  {
+    id: "Diva_houseHouse",
+    name: "Diva house",
+    children: []
+  },
+  {
+    id: "Dutch_houseHouse",
+    name: "Dutch house",
+    children: []
+  },
+  {
+    id: "Electro_houseHouse",
+    name: "Electro house",
+    children: []
+  },
+  {
+    id: "French_houseHouse",
+    name: "French house",
+    children: []
+  },
+  {
+    id: "Freestyle_houseHouse",
+    name: "Freestyle house",
+    children: []
+  },
+  {
+    id: "Funky_houseHouse",
+    name: "Funky house",
+    children: []
+  },
+  {
+    id: "Ghetto_houseHouse",
+    name: "Ghetto house",
+    children: []
+  },
+  {
+    id: "HardbagHouse",
+    name: "Hardbag",
+    children: []
+  },
+  {
+    id: "Hip_houseHouse",
+    name: "Hip house",
+    children: []
+  },
+  {
+    id: "Italo_houseHouse",
+    name: "Italo house",
+    children: []
+  },
+  {
+    id: "Latin_houseHouse",
+    name: "Latin house",
+    children: []
+  },
+  {
+    id: "Minimal_house/MicrohouseHouse",
+    name: "Minimal house/Microhouse",
+    children: []
+  },
+  {
+    id: "Progressive_houseHouse",
+    name: "Progressive house",
+    children: []
+  },
+  {
+    id: "Rave_musicHouse",
+    name: "Rave music",
+    children: []
+  },
+  {
+    id: "Swing_houseHouse",
+    name: "Swing house",
+    children: []
+  },
+  {
+    id: "Tech_houseHouse",
+    name: "Tech house",
+    children: []
+  },
+  {
+    id: "Tribal_houseHouse",
+    name: "Tribal house",
+    children: []
+  },
+  {
+    id: "UK_hard_houseHouse",
+    name: "UK hard house",
+    children: []
+  },
+  {
+    id: "US_garageHouse",
+    name: "US garage",
+    children: []
+  },
+  {
+    id: "Vocal_houseHouse",
+    name: "Vocal house",
+    children: []
+  },
+  {
+    id: "IndustrialElectronic_music",
+    name: "Industrial",
+    children: []
+  },
+  {
+    id: "AggrotechIndustrial",
+    name: "Aggrotech",
+    children: []
+  },
+  {
+    id: "ColdwaveIndustrial",
+    name: "Coldwave",
+    children: []
+  },
+  {
+    id: "CybergrindIndustrial",
+    name: "Cybergrind",
+    children: []
+  },
+  {
+    id: "Dark_electroIndustrial",
+    name: "Dark electro",
+    children: []
+  },
+  {
+    id: "Death_industrialIndustrial",
+    name: "Death industrial",
+    children: []
+  },
+  {
+    id: "Electronic_body_musicIndustrial",
+    name: "Electronic body music",
+    children: []
+  },
+  {
+    id: "FuturepopElectronic_body_music",
+    name: "Futurepop",
+    children: []
+  },
+  {
+    id: "Electro-industrialIndustrial",
+    name: "Electro-industrial",
+    children: []
+  },
+  {
+    id: "Industrial_metalIndustrial",
+    name: "Industrial metal",
+    children: []
+  },
+  {
+    id: "Neue_Deutsche_HärteIndustrial_metal",
+    name: "Neue Deutsche Härte",
+    children: []
+  },
+  {
+    id: "Industrial_rockIndustrial",
+    name: "Industrial rock",
+    children: []
+  },
+  {
+    id: "NoiseIndustrial",
+    name: "Noise",
+    children: []
+  },
+  {
+    id: "JapanoiseNoise",
+    name: "Japanoise",
+    children: []
+  },
+  {
+    id: "Power_noiseNoise",
+    name: "Power noise",
+    children: []
+  },
+  {
+    id: "Power_electronicsNoise",
+    name: "Power electronics",
+    children: []
+  },
+  {
+    id: "Witch_House/DragIndustrial",
+    name: "Witch House/Drag",
+    children: []
+  },
+  {
+    id: "Post-discoElectronic_music",
+    name: "Post-disco",
+    children: []
+  },
+  {
+    id: "BoogiePost-disco",
+    name: "Boogie",
+    children: []
+  },
+  {
+    id: "Dance-popPost-disco",
+    name: "Dance-pop",
+    children: []
+  },
+  {
+    id: "ProgressiveElectronic_music",
+    name: "Progressive",
+    children: []
+  },
+  {
+    id: "Progressive_breaksProgressive",
+    name: "Progressive breaks",
+    children: []
+  },
+  {
+    id: "Progressive_drum_&_bassProgressive",
+    name: "Progressive drum & bass",
+    children: []
+  },
+  {
+    id: "Progressive_House/TranceProgressive",
+    name: "Progressive House/Trance",
+    children: []
+  },
+  {
+    id: "Disco_houseProgressive_House/Trance",
+    name: "Disco house",
+    children: []
+  },
+  {
+    id: "Dream_houseProgressive_House/Trance",
+    name: "Dream house",
+    children: []
+  },
+  {
+    id: "Space_houseProgressive_House/Trance",
+    name: "Space house",
+    children: []
+  },
+  {
+    id: "Progressive_technoProgressive",
+    name: "Progressive techno",
+    children: []
+  },
+  {
+    id: "TechnoElectronic_music",
+    name: "Techno",
+    children: []
+  },
+  {
+    id: "Acid_technoTechno",
+    name: "Acid techno",
+    children: []
+  },
+  {
+    id: "Detroit_technoTechno",
+    name: "Detroit techno",
+    children: []
+  },
+  {
+    id: "Free_teknoTechno",
+    name: "Free tekno",
+    children: []
+  },
+  {
+    id: "GhettotechTechno",
+    name: "Ghettotech",
+    children: []
+  },
+  {
+    id: "MinimalTechno",
+    name: "Minimal",
+    children: []
+  },
+  {
+    id: "NortecTechno",
+    name: "Nortec",
+    children: []
+  },
+  {
+    id: "Schranz_/_HardtechnoTechno",
+    name: "Schranz / Hardtechno",
+    children: []
+  },
+  {
+    id: "Tecno_bregaTechno",
+    name: "Tecno brega",
+    children: []
+  },
+  {
+    id: "Techno-DNBTechno",
+    name: "Techno-DNB",
+    children: []
+  },
+  {
+    id: "TechnopopTechno",
+    name: "Technopop",
+    children: []
+  },
+  {
+    id: "Toytown_TechnoTechno",
+    name: "Toytown Techno",
+    children: []
+  },
+  {
+    id: "TranceElectronic_music",
+    name: "Trance",
+    children: []
+  },
+  {
+    id: "Acid_tranceTrance",
+    name: "Acid trance",
+    children: []
+  },
+  {
+    id: "Classic_tranceTrance",
+    name: "Classic trance",
+    children: []
+  },
+  {
+    id: "Dream_tranceTrance",
+    name: "Dream trance",
+    children: []
+  },
+  {
+    id: "Goa_trance_/_Psychedelic_tranceTrance",
+    name: "Goa trance / Psychedelic trance",
+    children: []
+  },
+  {
+    id: "Dark_psytranceGoa_trance_/_Psychedelic_trance",
+    name: "Dark psytrance",
+    children: []
+  },
+  {
+    id: "Full_onGoa_trance_/_Psychedelic_trance",
+    name: "Full on",
+    children: []
+  },
+  {
+    id: "PsyprogGoa_trance_/_Psychedelic_trance",
+    name: "Psyprog",
+    children: []
+  },
+  {
+    id: "PsybreaksGoa_trance_/_Psychedelic_trance",
+    name: "Psybreaks",
+    children: []
+  },
+  {
+    id: "SuomisaundiGoa_trance_/_Psychedelic_trance",
+    name: "Suomisaundi",
+    children: []
+  },
+  {
+    id: "Hard_tranceTrance",
+    name: "Hard trance",
+    children: []
+  },
+  {
+    id: "Tech_tranceTrance",
+    name: "Tech trance",
+    children: []
+  },
+  {
+    id: "Uplifting_tranceTrance",
+    name: "Uplifting trance",
+    children: []
+  },
+  {
+    id: "Orchestral_UpliftingUplifting_trance",
+    name: "Orchestral Uplifting",
+    children: []
+  },
+  {
+    id: "Vocal_tranceTrance",
+    name: "Vocal trance",
+    children: []
+  },
+  {
+    id: "UK_garageElectronic_music",
+    name: "UK garage",
+    children: []
+  },
+  {
+    id: "2-stepUK_garage",
+    name: "2-step",
+    children: []
+  },
+  {
+    id: "BasslineUK_garage",
+    name: "Bassline",
+    children: []
+  },
+  {
+    id: "BreakstepUK_garage",
+    name: "Breakstep",
+    children: []
+  },
+  {
+    id: "DubstepUK_garage",
+    name: "Dubstep",
+    children: []
+  },
+  {
+    id: "TrapUK_garage",
+    name: "Trap",
+    children: []
+  },
+  {
+    id: "FunkyUK_garage",
+    name: "Funky",
+    children: []
+  },
+  {
+    id: "GrimeUK_garage",
+    name: "Grime",
+    children: []
+  },
+  {
+    id: "Speed_garageUK_garage",
+    name: "Speed garage",
+    children: []
+  },
+  {
+    id: "Folk_musicMusic",
+    name: "Folk music",
+    children: []
+  },
+  {
+    id: "Contemporary_folkFolk_music",
+    name: "Contemporary folk",
+    children: []
+  },
+  {
+    id: "Celtic_musicFolk_music",
+    name: "Celtic music",
+    children: []
+  },
+  {
+    id: "Indie_folkFolk_music",
+    name: "Indie folk",
+    children: []
+  },
+  {
+    id: "NeofolkFolk_music",
+    name: "Neofolk",
+    children: []
+  },
+  {
+    id: "Progressive_folkFolk_music",
+    name: "Progressive folk",
+    children: []
+  },
+  {
+    id: "Anti-folkFolk_music",
+    name: "Anti-folk",
+    children: []
+  },
+  {
+    id: "Freak_folkFolk_music",
+    name: "Freak folk",
+    children: []
+  },
+  {
+    id: "Filk_musicFolk_music",
+    name: "Filk music",
+    children: []
+  },
+  {
+    id: "American_folk_revivalFolk_music",
+    name: "American folk revival",
+    children: []
+  },
+  {
+    id: "British_folk_revivalFolk_music",
+    name: "British folk revival",
+    children: []
+  },
+  {
+    id: "Industrial_folkFolk_music",
+    name: "Industrial folk",
+    children: []
+  },
+  {
+    id: "Techno-folkFolk_music",
+    name: "Techno-folk",
+    children: []
+  },
+  {
+    id: "Psychedelic_folkFolk_music",
+    name: "Psychedelic folk",
+    children: []
+  },
+  {
+    id: "Sung_poetryFolk_music",
+    name: "Sung poetry",
+    children: []
+  },
+  {
+    id: "Cowboy/Western_musicFolk_music",
+    name: "Cowboy/Western music",
+    children: []
+  },
+  {
+    id: "Hip_hop_musicMusic",
+    name: "Hip hop music",
+    children: []
+  },
+  {
+    id: "Alternative_hip_hopHip_hop_music",
+    name: "Alternative hip hop",
+    children: []
+  },
+  {
+    id: "Avant-garde_hip_hopHip_hop_music",
+    name: "Avant-garde hip hop",
+    children: []
+  },
+  {
+    id: "Bongo_FlavaHip_hop_music",
+    name: "Bongo Flava",
+    children: []
+  },
+  {
+    id: "Chap_hopHip_hop_music",
+    name: "Chap hop",
+    children: []
+  },
+  {
+    id: "Christian_hip_hopHip_hop_music",
+    name: "Christian hip hop",
+    children: []
+  },
+  {
+    id: "Conscious_hip_hopHip_hop_music",
+    name: "Conscious hip hop",
+    children: []
+  },
+  {
+    id: "Country-rapHip_hop_music",
+    name: "Country-rap",
+    children: []
+  },
+  {
+    id: "CrunkcoreHip_hop_music",
+    name: "Crunkcore",
+    children: []
+  },
+  {
+    id: "Cumbia_rapHip_hop_music",
+    name: "Cumbia rap",
+    children: []
+  },
+  {
+    id: "DrillHip_hop_music",
+    name: "Drill",
+    children: []
+  },
+  {
+    id: "East_Coast_hip_hopHip_hop_music",
+    name: "East Coast hip hop",
+    children: []
+  },
+  {
+    id: "Baltimore_clubEast_Coast_hip_hop",
+    name: "Baltimore club",
+    children: []
+  },
+  {
+    id: "Brick_City_clubEast_Coast_hip_hop",
+    name: "Brick City club",
+    children: []
+  },
+  {
+    id: "Hardcore_hip_hopEast_Coast_hip_hop",
+    name: "Hardcore hip hop",
+    children: []
+  },
+  {
+    id: "Mafioso_rapEast_Coast_hip_hop",
+    name: "Mafioso rap",
+    children: []
+  },
+  {
+    id: "New_Jersey_hip_hopEast_Coast_hip_hop",
+    name: "New Jersey hip hop",
+    children: []
+  },
+  {
+    id: "Electro_musicHip_hop_music",
+    name: "Electro music",
+    children: []
+  },
+  {
+    id: "Freestyle_musicHip_hop_music",
+    name: "Freestyle music",
+    children: []
+  },
+  {
+    id: "Freestyle_rapHip_hop_music",
+    name: "Freestyle rap",
+    children: []
+  },
+  {
+    id: "G-FunkHip_hop_music",
+    name: "G-Funk",
+    children: []
+  },
+  {
+    id: "Gangsta_rapHip_hop_music",
+    name: "Gangsta rap",
+    children: []
+  },
+  {
+    id: "Ghetto_houseHip_hop_music",
+    name: "Ghetto house",
+    children: []
+  },
+  {
+    id: "GhettotechHip_hop_music",
+    name: "Ghettotech",
+    children: []
+  },
+  {
+    id: "Golden_age_hip_hopHip_hop_music",
+    name: "Golden age hip hop",
+    children: []
+  },
+  {
+    id: "GrimeHip_hop_music",
+    name: "Grime",
+    children: []
+  },
+  {
+    id: "Hardcore_hip_hopHip_hop_music",
+    name: "Hardcore hip hop",
+    children: []
+  },
+  {
+    id: "Hip_hop_soulHip_hop_music",
+    name: "Hip hop soul",
+    children: []
+  },
+  {
+    id: "Hip_houseHip_hop_music",
+    name: "Hip house",
+    children: []
+  },
+  {
+    id: "HiplifeHip_hop_music",
+    name: "Hiplife",
+    children: []
+  },
+  {
+    id: "Hip_popHip_hop_music",
+    name: "Hip pop",
+    children: []
+  },
+  {
+    id: "HyphyHip_hop_music",
+    name: "Hyphy",
+    children: []
+  },
+  {
+    id: "Igbo_rapHip_hop_music",
+    name: "Igbo rap",
+    children: []
+  },
+  {
+    id: "Industrial_hip_hopHip_hop_music",
+    name: "Industrial hip hop",
+    children: []
+  },
+  {
+    id: "Instrumental_hip_hopHip_hop_music",
+    name: "Instrumental hip hop",
+    children: []
+  },
+  {
+    id: "Jazz_rapHip_hop_music",
+    name: "Jazz rap",
+    children: []
+  },
+  {
+    id: "KwaitoHip_hop_music",
+    name: "Kwaito",
+    children: []
+  },
+  {
+    id: "Lyrical_hip_hopHip_hop_music",
+    name: "Lyrical hip hop",
+    children: []
+  },
+  {
+    id: "Low_BapHip_hop_music",
+    name: "Low Bap",
+    children: []
+  },
+  {
+    id: "Midwest_hip_hopHip_hop_music",
+    name: "Midwest hip hop",
+    children: []
+  },
+  {
+    id: "Chicago_hip_hopMidwest_hip_hop",
+    name: "Chicago hip hop",
+    children: []
+  },
+  {
+    id: "Ghetto_houseChicago_hip_hop",
+    name: "Ghetto house",
+    children: []
+  },
+  {
+    id: "Detroit_hip_hopMidwest_hip_hop",
+    name: "Detroit hip hop",
+    children: []
+  },
+  {
+    id: "GhettotechDetroit_hip_hop",
+    name: "Ghettotech",
+    children: []
+  },
+  {
+    id: "St._Louis_hip_hopMidwest_hip_hop",
+    name: "St. Louis hip hop",
+    children: []
+  },
+  {
+    id: "Twin_Cities_hip_hopMidwest_hip_hop",
+    name: "Twin Cities hip hop",
+    children: []
+  },
+  {
+    id: "HorrorcoreMidwest_hip_hop",
+    name: "Horrorcore",
+    children: []
+  },
+  {
+    id: "MerenrapHip_hop_music",
+    name: "Merenrap",
+    children: []
+  },
+  {
+    id: "MotswakoHip_hop_music",
+    name: "Motswako",
+    children: []
+  },
+  {
+    id: "NerdcoreHip_hop_music",
+    name: "Nerdcore",
+    children: []
+  },
+  {
+    id: "New_jack_swingHip_hop_music",
+    name: "New jack swing",
+    children: []
+  },
+  {
+    id: "New_school_hip_hopHip_hop_music",
+    name: "New school hip hop",
+    children: []
+  },
+  {
+    id: "Old_school_hip_hopHip_hop_music",
+    name: "Old school hip hop",
+    children: []
+  },
+  {
+    id: "Political_hip_hopHip_hop_music",
+    name: "Political hip hop",
+    children: []
+  },
+  {
+    id: "RaggaHip_hop_music",
+    name: "Ragga",
+    children: []
+  },
+  {
+    id: "ReggaetonHip_hop_music",
+    name: "Reggaeton",
+    children: []
+  },
+  {
+    id: "Rap_operaHip_hop_music",
+    name: "Rap opera",
+    children: []
+  },
+  {
+    id: "Rap_rockHip_hop_music",
+    name: "Rap rock",
+    children: []
+  },
+  {
+    id: "RapcoreRap_rock",
+    name: "Rapcore",
+    children: []
+  },
+  {
+    id: "Rap_metalRap_rock",
+    name: "Rap metal",
+    children: []
+  },
+  {
+    id: "Reggae_Español/Spanish_ReggaeHip_hop_music",
+    name: "Reggae Español/Spanish Reggae",
+    children: []
+  },
+  {
+    id: "Southern_hip_hopHip_hop_music",
+    name: "Southern hip hop",
+    children: []
+  },
+  {
+    id: "Atlanta_hip_hopSouthern_hip_hop",
+    name: "Atlanta hip hop",
+    children: []
+  },
+  {
+    id: "Snap_musicAtlanta_hip_hop",
+    name: "Snap music",
+    children: []
+  },
+  {
+    id: "Bounce_musicSouthern_hip_hop",
+    name: "Bounce music",
+    children: []
+  },
+  {
+    id: "CrunkSouthern_hip_hop",
+    name: "Crunk",
+    children: []
+  },
+  {
+    id: "Houston_hip_hopSouthern_hip_hop",
+    name: "Houston hip hop",
+    children: []
+  },
+  {
+    id: "Chopped_and_screwedHouston_hip_hop",
+    name: "Chopped and screwed",
+    children: []
+  },
+  {
+    id: "Miami_bassSouthern_hip_hop",
+    name: "Miami bass",
+    children: []
+  },
+  {
+    id: "Songo-salsaHip_hop_music",
+    name: "Songo-salsa",
+    children: []
+  },
+  {
+    id: "TrapHip_hop_music",
+    name: "Trap",
+    children: []
+  },
+  {
+    id: "Trip_hop_(or_Bristol_sound)Hip_hop_music",
+    name: "Trip hop (or Bristol sound)",
+    children: []
+  },
+  {
+    id: "TurntablismHip_hop_music",
+    name: "Turntablism",
+    children: []
+  },
+  {
+    id: "Underground_hip_hopHip_hop_music",
+    name: "Underground hip hop",
+    children: []
+  },
+  {
+    id: "Urban_PasifikaHip_hop_music",
+    name: "Urban Pasifika",
+    children: []
+  },
+  {
+    id: "West_Coast_hip_hopHip_hop_music",
+    name: "West Coast hip hop",
+    children: []
+  },
+  {
+    id: "Chicano_rapWest_Coast_hip_hop",
+    name: "Chicano rap",
+    children: []
+  },
+  {
+    id: "Gangsta_rapWest_Coast_hip_hop",
+    name: "Gangsta rap",
+    children: []
+  },
+  {
+    id: "G-funkWest_Coast_hip_hop",
+    name: "G-funk",
+    children: []
+  },
+  {
+    id: "HyphyWest_Coast_hip_hop",
+    name: "Hyphy",
+    children: []
+  },
+  {
+    id: "Jerkin''West_Coast_hip_hop",
+    name: "Jerkin''",
+    children: []
+  },
+  {
+    id: "JazzMusic",
+    name: "Jazz",
+    children: []
+  },
+  {
+    id: "Acid_jazzJazz",
+    name: "Acid jazz",
+    children: []
+  },
+  {
+    id: "Afro-Cuban_jazzJazz",
+    name: "Afro-Cuban jazz",
+    children: []
+  },
+  {
+    id: "Asian_American_jazzJazz",
+    name: "Asian American jazz",
+    children: []
+  },
+  {
+    id: "Avant-garde_jazzJazz",
+    name: "Avant-garde jazz",
+    children: []
+  },
+  {
+    id: "BebopJazz",
+    name: "Bebop",
+    children: []
+  },
+  {
+    id: "Boogie-woogieJazz",
+    name: "Boogie-woogie",
+    children: []
+  },
+  {
+    id: "Bossa_novaJazz",
+    name: "Bossa nova",
+    children: []
+  },
+  {
+    id: "British_dance_bandJazz",
+    name: "British dance band",
+    children: []
+  },
+  {
+    id: "Cape_jazzJazz",
+    name: "Cape jazz",
+    children: []
+  },
+  {
+    id: "Chamber_jazzJazz",
+    name: "Chamber jazz",
+    children: []
+  },
+  {
+    id: "Continental_JazzJazz",
+    name: "Continental Jazz",
+    children: []
+  },
+  {
+    id: "Cool_jazzJazz",
+    name: "Cool jazz",
+    children: []
+  },
+  {
+    id: "Crossover_jazzJazz",
+    name: "Crossover jazz",
+    children: []
+  },
+  {
+    id: "DixielandJazz",
+    name: "Dixieland",
+    children: []
+  },
+  {
+    id: "Ethno_jazzJazz",
+    name: "Ethno jazz",
+    children: []
+  },
+  {
+    id: "European_free_jazzJazz",
+    name: "European free jazz",
+    children: []
+  },
+  {
+    id: "Free_funkJazz",
+    name: "Free funk",
+    children: []
+  },
+  {
+    id: "Free_improvisationJazz",
+    name: "Free improvisation",
+    children: []
+  },
+  {
+    id: "Free_jazzJazz",
+    name: "Free jazz",
+    children: []
+  },
+  {
+    id: "Gypsy_jazzJazz",
+    name: "Gypsy jazz",
+    children: []
+  },
+  {
+    id: "Hard_bopJazz",
+    name: "Hard bop",
+    children: []
+  },
+  {
+    id: "Jazz_bluesJazz",
+    name: "Jazz blues",
+    children: []
+  },
+  {
+    id: "Jazz-funkJazz",
+    name: "Jazz-funk",
+    children: []
+  },
+  {
+    id: "Jazz_fusionJazz",
+    name: "Jazz fusion",
+    children: []
+  },
+  {
+    id: "Jazz_rapJazz",
+    name: "Jazz rap",
+    children: []
+  },
+  {
+    id: "Jazz_rockJazz",
+    name: "Jazz rock",
+    children: []
+  },
+  {
+    id: "Kansas_City_bluesJazz",
+    name: "Kansas City blues",
+    children: []
+  },
+  {
+    id: "Kansas_City_jazzJazz",
+    name: "Kansas City jazz",
+    children: []
+  },
+  {
+    id: "Latin_jazzJazz",
+    name: "Latin jazz",
+    children: []
+  },
+  {
+    id: "LivetronicaJazz",
+    name: "Livetronica",
+    children: []
+  },
+  {
+    id: "M-BaseJazz",
+    name: "M-Base",
+    children: []
+  },
+  {
+    id: "Mainstream_jazzJazz",
+    name: "Mainstream jazz",
+    children: []
+  },
+  {
+    id: "Modal_jazzJazz",
+    name: "Modal jazz",
+    children: []
+  },
+  {
+    id: "Neo-bop_jazzJazz",
+    name: "Neo-bop jazz",
+    children: []
+  },
+  {
+    id: "Neo-swingJazz",
+    name: "Neo-swing",
+    children: []
+  },
+  {
+    id: "Novelty_ragtimeJazz",
+    name: "Novelty ragtime",
+    children: []
+  },
+  {
+    id: "Nu_jazzJazz",
+    name: "Nu jazz",
+    children: []
+  },
+  {
+    id: "Orchestral_jazzJazz",
+    name: "Orchestral jazz",
+    children: []
+  },
+  {
+    id: "Post-bopJazz",
+    name: "Post-bop",
+    children: []
+  },
+  {
+    id: "Punk_jazzJazz",
+    name: "Punk jazz",
+    children: []
+  },
+  {
+    id: "RagtimeJazz",
+    name: "Ragtime",
+    children: []
+  },
+  {
+    id: "Shibuya-keiJazz",
+    name: "Shibuya-kei",
+    children: []
+  },
+  {
+    id: "Ska_jazzJazz",
+    name: "Ska jazz",
+    children: []
+  },
+  {
+    id: "Smooth_jazzJazz",
+    name: "Smooth jazz",
+    children: []
+  },
+  {
+    id: "Soul_jazzJazz",
+    name: "Soul jazz",
+    children: []
+  },
+  {
+    id: "Stride_jazzJazz",
+    name: "Stride jazz",
+    children: []
+  },
+  {
+    id: "Straight-ahead_jazzJazz",
+    name: "Straight-ahead jazz",
+    children: []
+  },
+  {
+    id: "SwingJazz",
+    name: "Swing",
+    children: []
+  },
+  {
+    id: "Third_streamJazz",
+    name: "Third stream",
+    children: []
+  },
+  {
+    id: "Trad_jazzJazz",
+    name: "Trad jazz",
+    children: []
+  },
+  {
+    id: "Vocal_jazzJazz",
+    name: "Vocal jazz",
+    children: []
+  },
+  {
+    id: "West_Coast_jazzJazz",
+    name: "West Coast jazz",
+    children: []
+  },
+  {
+    id: "LatinMusic",
+    name: "Latin",
+    children: []
+  },
+  {
+    id: "BachataLatin",
+    name: "Bachata",
+    children: []
+  },
+  {
+    id: "BandaLatin",
+    name: "Banda",
+    children: []
+  },
+  {
+    id: "BoleroLatin",
+    name: "Bolero",
+    children: []
+  },
+  {
+    id: "CumbiaLatin",
+    name: "Cumbia",
+    children: []
+  },
+  {
+    id: "HuaynoLatin",
+    name: "Huayno",
+    children: []
+  },
+  {
+    id: "ChichaLatin",
+    name: "Chicha",
+    children: []
+  },
+  {
+    id: "CriollaLatin",
+    name: "Criolla",
+    children: []
+  },
+  {
+    id: "FlamencoLatin",
+    name: "Flamenco",
+    children: []
+  },
+  {
+    id: "MamboLatin",
+    name: "Mambo",
+    children: []
+  },
+  {
+    id: "MariachiLatin",
+    name: "Mariachi",
+    children: []
+  },
+  {
+    id: "MerengueLatin",
+    name: "Merengue",
+    children: []
+  },
+  {
+    id: "MéringueLatin",
+    name: "Méringue",
+    children: []
+  },
+  {
+    id: "NorteñaLatin",
+    name: "Norteña",
+    children: []
+  },
+  {
+    id: "RancheraLatin",
+    name: "Ranchera",
+    children: []
+  },
+  {
+    id: "SalsaLatin",
+    name: "Salsa",
+    children: []
+  },
+  {
+    id: "SonLatin",
+    name: "Son",
+    children: []
+  },
+  {
+    id: "TejanoLatin",
+    name: "Tejano",
+    children: []
+  },
+  {
+    id: "TimbaLatin",
+    name: "Timba",
+    children: []
+  },
+  {
+    id: "BrazilMusic",
+    name: "Brazil",
+    children: []
+  },
+  {
+    id: "AxéBrazil",
+    name: "Axé",
+    children: []
+  },
+  {
+    id: "Bossa_NovaBrazil",
+    name: "Bossa Nova",
+    children: []
+  },
+  {
+    id: "Brazilian_rockBrazil",
+    name: "Brazilian rock",
+    children: []
+  },
+  {
+    id: "BregaBrazil",
+    name: "Brega",
+    children: []
+  },
+  {
+    id: "ChoroBrazil",
+    name: "Choro",
+    children: []
+  },
+  {
+    id: "ForróBrazil",
+    name: "Forró",
+    children: []
+  },
+  {
+    id: "FrevoBrazil",
+    name: "Frevo",
+    children: []
+  },
+  {
+    id: "Funk_CariocaBrazil",
+    name: "Funk Carioca",
+    children: []
+  },
+  {
+    id: "LambadaBrazil",
+    name: "Lambada",
+    children: []
+  },
+  {
+    id: "MaracatuBrazil",
+    name: "Maracatu",
+    children: []
+  },
+  {
+    id: "Música_popular_brasileiraBrazil",
+    name: "Música popular brasileira",
+    children: []
+  },
+  {
+    id: "Música_sertanejaBrazil",
+    name: "Música sertaneja",
+    children: []
+  },
+  {
+    id: "PagodeBrazil",
+    name: "Pagode",
+    children: []
+  },
+  {
+    id: "SambaBrazil",
+    name: "Samba",
+    children: []
+  },
+  {
+    id: "Samba_rockBrazil",
+    name: "Samba rock",
+    children: []
+  },
+  {
+    id: "TecnobregaBrazil",
+    name: "Tecnobrega",
+    children: []
+  },
+  {
+    id: "TropicaliaBrazil",
+    name: "Tropicalia",
+    children: []
+  },
+  {
+    id: "Zouk-LambadaBrazil",
+    name: "Zouk-Lambada",
+    children: []
+  },
+  {
+    id: "Pop_musicMusic",
+    name: "Pop music",
+    children: []
+  },
+  {
+    id: "Adult_contemporaryPop_music",
+    name: "Adult contemporary",
+    children: []
+  },
+  {
+    id: "Arab_popPop_music",
+    name: "Arab pop",
+    children: []
+  },
+  {
+    id: "Baroque_popPop_music",
+    name: "Baroque pop",
+    children: []
+  },
+  {
+    id: "Bubblegum_popPop_music",
+    name: "Bubblegum pop",
+    children: []
+  },
+  {
+    id: "ChalgaPop_music",
+    name: "Chalga",
+    children: []
+  },
+  {
+    id: "ChansonPop_music",
+    name: "Chanson",
+    children: []
+  },
+  {
+    id: "Christian_popPop_music",
+    name: "Christian pop",
+    children: []
+  },
+  {
+    id: "Classical_crossoverPop_music",
+    name: "Classical crossover",
+    children: []
+  },
+  {
+    id: "Country_popPop_music",
+    name: "Country pop",
+    children: []
+  },
+  {
+    id: "C-popPop_music",
+    name: "C-pop",
+    children: []
+  },
+  {
+    id: "MandopopC-pop",
+    name: "Mandopop",
+    children: []
+  },
+  {
+    id: "Dance-popPop_music",
+    name: "Dance-pop",
+    children: []
+  },
+  {
+    id: "Disco_poloPop_music",
+    name: "Disco polo",
+    children: []
+  },
+  {
+    id: "ElectropopPop_music",
+    name: "Electropop",
+    children: []
+  },
+  {
+    id: "EuropopPop_music",
+    name: "Europop",
+    children: []
+  },
+  {
+    id: "AustropopEuropop",
+    name: "Austropop",
+    children: []
+  },
+  {
+    id: "EurobeatEuropop",
+    name: "Eurobeat",
+    children: []
+  },
+  {
+    id: "French_popEuropop",
+    name: "French pop",
+    children: []
+  },
+  {
+    id: "Italo_danceEuropop",
+    name: "Italo dance",
+    children: []
+  },
+  {
+    id: "Italo_discoEuropop",
+    name: "Italo disco",
+    children: []
+  },
+  {
+    id: "LaïkóEuropop",
+    name: "Laïkó",
+    children: []
+  },
+  {
+    id: "Latin_popEuropop",
+    name: "Latin pop",
+    children: []
+  },
+  {
+    id: "NederpopEuropop",
+    name: "Nederpop",
+    children: []
+  },
+  {
+    id: "Russian_popEuropop",
+    name: "Russian pop",
+    children: []
+  },
+  {
+    id: "Folk_popEuropop",
+    name: "Folk pop",
+    children: []
+  },
+  {
+    id: "Iranian_popPop_music",
+    name: "Iranian pop",
+    children: []
+  },
+  {
+    id: "J-popPop_music",
+    name: "J-pop",
+    children: []
+  },
+  {
+    id: "Jangle_popPop_music",
+    name: "Jangle pop",
+    children: []
+  },
+  {
+    id: "K-popPop_music",
+    name: "K-pop",
+    children: []
+  },
+  {
+    id: "Latin_balladPop_music",
+    name: "Latin ballad",
+    children: []
+  },
+  {
+    id: "LevensliedPop_music",
+    name: "Levenslied",
+    children: []
+  },
+  {
+    id: "Louisiana_swamp_popPop_music",
+    name: "Louisiana swamp pop",
+    children: []
+  },
+  {
+    id: "Mexican_popPop_music",
+    name: "Mexican pop",
+    children: []
+  },
+  {
+    id: "New_RomanticismPop_music",
+    name: "New Romanticism",
+    children: []
+  },
+  {
+    id: "Pop_rapPop_music",
+    name: "Pop rap",
+    children: []
+  },
+  {
+    id: "Pop_rockPop_music",
+    name: "Pop rock",
+    children: []
+  },
+  {
+    id: "PoperaPop_music",
+    name: "Popera",
+    children: []
+  },
+  {
+    id: "Psychedelic_popPop_music",
+    name: "Psychedelic pop",
+    children: []
+  },
+  {
+    id: "SchlagerPop_music",
+    name: "Schlager",
+    children: []
+  },
+  {
+    id: "Soft_rockPop_music",
+    name: "Soft rock",
+    children: []
+  },
+  {
+    id: "Sophisti-popPop_music",
+    name: "Sophisti-pop",
+    children: []
+  },
+  {
+    id: "Space_age_popPop_music",
+    name: "Space age pop",
+    children: []
+  },
+  {
+    id: "Sunshine_popPop_music",
+    name: "Sunshine pop",
+    children: []
+  },
+  {
+    id: "Surf_popPop_music",
+    name: "Surf pop",
+    children: []
+  },
+  {
+    id: "SynthpopPop_music",
+    name: "Synthpop",
+    children: []
+  },
+  {
+    id: "TechnopopPop_music",
+    name: "Technopop",
+    children: []
+  },
+  {
+    id: "Teen_popPop_music",
+    name: "Teen pop",
+    children: []
+  },
+  {
+    id: "Traditional_pop_musicPop_music",
+    name: "Traditional pop music",
+    children: []
+  },
+  {
+    id: "Turkish_popPop_music",
+    name: "Turkish pop",
+    children: []
+  },
+  {
+    id: "VispopPop_music",
+    name: "Vispop",
+    children: []
+  },
+  {
+    id: "Wonky_popPop_music",
+    name: "Wonky pop",
+    children: []
+  },
+  {
+    id: "WorldbeatPop_music",
+    name: "Worldbeat",
+    children: []
+  },
+  {
+    id: "R&B_and_soulMusic",
+    name: "R&B and soul",
+    children: []
+  },
+  {
+    id: "Contemporary_R&BR&B_and_soul",
+    name: "Contemporary R&B",
+    children: []
+  },
+  {
+    id: "FunkR&B_and_soul",
+    name: "Funk",
+    children: []
+  },
+  {
+    id: "Deep_funkFunk",
+    name: "Deep funk",
+    children: []
+  },
+  {
+    id: "Go-goFunk",
+    name: "Go-go",
+    children: []
+  },
+  {
+    id: "P-FunkFunk",
+    name: "P-Funk",
+    children: []
+  },
+  {
+    id: "DiscoR&B_and_soul",
+    name: "Disco",
+    children: []
+  },
+  {
+    id: "Post-discoDisco",
+    name: "Post-disco",
+    children: []
+  },
+  {
+    id: "BoogieDisco",
+    name: "Boogie",
+    children: []
+  },
+  {
+    id: "New_jack_swingR&B_and_soul",
+    name: "New jack swing",
+    children: []
+  },
+  {
+    id: "Rhythm_and_bluesR&B_and_soul",
+    name: "Rhythm and blues",
+    children: []
+  },
+  {
+    id: "SoulR&B_and_soul",
+    name: "Soul",
+    children: []
+  },
+  {
+    id: "Blue-eyed_soulSoul",
+    name: "Blue-eyed soul",
+    children: []
+  },
+  {
+    id: "Hip_hop_soulSoul",
+    name: "Hip hop soul",
+    children: []
+  },
+  {
+    id: "Northern_soulSoul",
+    name: "Northern soul",
+    children: []
+  },
+  {
+    id: "Neo_soulSoul",
+    name: "Neo soul",
+    children: []
+  },
+  {
+    id: "Southern_soulSoul",
+    name: "Southern soul",
+    children: []
+  },
+  {
+    id: "RockMusic",
+    name: "Rock",
+    children: []
+  },
+  {
+    id: "Alternative_rockRock",
+    name: "Alternative rock",
+    children: []
+  },
+  {
+    id: "BritpopAlternative_rock",
+    name: "Britpop",
+    children: []
+  },
+  {
+    id: "Post-BritpopBritpop",
+    name: "Post-Britpop",
+    children: []
+  },
+  {
+    id: "Dream_popAlternative_rock",
+    name: "Dream pop",
+    children: []
+  },
+  {
+    id: "GrungeAlternative_rock",
+    name: "Grunge",
+    children: []
+  },
+  {
+    id: "Post-grungeGrunge",
+    name: "Post-grunge",
+    children: []
+  },
+  {
+    id: "Indie_popAlternative_rock",
+    name: "Indie pop",
+    children: []
+  },
+  {
+    id: "Dunedin_SoundIndie_pop",
+    name: "Dunedin Sound",
+    children: []
+  },
+  {
+    id: "Twee_PopIndie_pop",
+    name: "Twee Pop",
+    children: []
+  },
+  {
+    id: "Indie_rockAlternative_rock",
+    name: "Indie rock",
+    children: []
+  },
+  {
+    id: "Industrial_rockAlternative_rock",
+    name: "Industrial rock",
+    children: []
+  },
+  {
+    id: "Noise_popAlternative_rock",
+    name: "Noise pop",
+    children: []
+  },
+  {
+    id: "Nu_metalAlternative_rock",
+    name: "Nu metal",
+    children: []
+  },
+  {
+    id: "Post-punk_revivalAlternative_rock",
+    name: "Post-punk revival",
+    children: []
+  },
+  {
+    id: "Post-rockAlternative_rock",
+    name: "Post-rock",
+    children: []
+  },
+  {
+    id: "Post-metalPost-rock",
+    name: "Post-metal",
+    children: []
+  },
+  {
+    id: "SadcoreAlternative_rock",
+    name: "Sadcore",
+    children: []
+  },
+  {
+    id: "ShoegazeAlternative_rock",
+    name: "Shoegaze",
+    children: []
+  },
+  {
+    id: "SlowcoreAlternative_rock",
+    name: "Slowcore",
+    children: []
+  },
+  {
+    id: "Art_rockRock",
+    name: "Art rock",
+    children: []
+  },
+  {
+    id: "Beat_musicRock",
+    name: "Beat music",
+    children: []
+  },
+  {
+    id: "Chinese_rockRock",
+    name: "Chinese rock",
+    children: []
+  },
+  {
+    id: "Christian_rockRock",
+    name: "Christian rock",
+    children: []
+  },
+  {
+    id: "ElectronicoreRock",
+    name: "Electronicore",
+    children: []
+  },
+  {
+    id: "Dark_cabaretRock",
+    name: "Dark cabaret",
+    children: []
+  },
+  {
+    id: "Experimental_rockRock",
+    name: "Experimental rock",
+    children: []
+  },
+  {
+    id: "Electronic_rockRock",
+    name: "Electronic rock",
+    children: []
+  },
+  {
+    id: "Folk_rockRock",
+    name: "Folk rock",
+    children: []
+  },
+  {
+    id: "Garage_rockRock",
+    name: "Garage rock",
+    children: []
+  },
+  {
+    id: "Glam_rockRock",
+    name: "Glam rock",
+    children: []
+  },
+  {
+    id: "Hard_rockRock",
+    name: "Hard rock",
+    children: []
+  },
+  {
+    id: "Heavy_metalRock",
+    name: "Heavy metal",
+    children: []
+  },
+  {
+    id: "Alternative_metalHeavy_metal",
+    name: "Alternative metal",
+    children: []
+  },
+  {
+    id: "Nu_metalAlternative_metal",
+    name: "Nu metal",
+    children: []
+  },
+  {
+    id: "Black_metalHeavy_metal",
+    name: "Black metal",
+    children: []
+  },
+  {
+    id: "Viking_metalBlack_metal",
+    name: "Viking metal",
+    children: []
+  },
+  {
+    id: "Christian_metalHeavy_metal",
+    name: "Christian metal",
+    children: []
+  },
+  {
+    id: "Death_metalHeavy_metal",
+    name: "Death metal",
+    children: []
+  },
+  {
+    id: "Melodic_death_metalDeath_metal",
+    name: "Melodic death metal",
+    children: []
+  },
+  {
+    id: "Technical_death_metalDeath_metal",
+    name: "Technical death metal",
+    children: []
+  },
+  {
+    id: "GoregrindDeath_metal",
+    name: "Goregrind",
+    children: []
+  },
+  {
+    id: "Doom_metalHeavy_metal",
+    name: "Doom metal",
+    children: []
+  },
+  {
+    id: "Drone_metalHeavy_metal",
+    name: "Drone metal",
+    children: []
+  },
+  {
+    id: "Folk_metalHeavy_metal",
+    name: "Folk metal",
+    children: []
+  },
+  {
+    id: "Celtic_metalFolk_metal",
+    name: "Celtic metal",
+    children: []
+  },
+  {
+    id: "Medieval_metalFolk_metal",
+    name: "Medieval metal",
+    children: []
+  },
+  {
+    id: "Funk_metalHeavy_metal",
+    name: "Funk metal",
+    children: []
+  },
+  {
+    id: "Glam_metalHeavy_metal",
+    name: "Glam metal",
+    children: []
+  },
+  {
+    id: "Gothic_metalHeavy_metal",
+    name: "Gothic metal",
+    children: []
+  },
+  {
+    id: "Industrial_metalHeavy_metal",
+    name: "Industrial metal",
+    children: []
+  },
+  {
+    id: "MetalcoreHeavy_metal",
+    name: "Metalcore",
+    children: []
+  },
+  {
+    id: "DeathcoreHeavy_metal",
+    name: "Deathcore",
+    children: []
+  },
+  {
+    id: "MathcoreHeavy_metal",
+    name: "Mathcore",
+    children: []
+  },
+  {
+    id: "Power_metalHeavy_metal",
+    name: "Power metal",
+    children: []
+  },
+  {
+    id: "Progressive_metalPower_metal",
+    name: "Progressive metal",
+    children: []
+  },
+  {
+    id: "DjentHeavy_metal",
+    name: "Djent",
+    children: []
+  },
+  {
+    id: "Rap_metalHeavy_metal",
+    name: "Rap metal",
+    children: []
+  },
+  {
+    id: "Sludge_metalHeavy_metal",
+    name: "Sludge metal",
+    children: []
+  },
+  {
+    id: "Speed_metalHeavy_metal",
+    name: "Speed metal",
+    children: []
+  },
+  {
+    id: "Stoner_rockHeavy_metal",
+    name: "Stoner rock",
+    children: []
+  },
+  {
+    id: "Symphonic_metalHeavy_metal",
+    name: "Symphonic metal",
+    children: []
+  },
+  {
+    id: "Thrash_metalHeavy_metal",
+    name: "Thrash metal",
+    children: []
+  },
+  {
+    id: "Crossover_thrashThrash_metal",
+    name: "Crossover thrash",
+    children: []
+  },
+  {
+    id: "Groove_metalThrash_metal",
+    name: "Groove metal",
+    children: []
+  },
+  {
+    id: "Jazz_rockRock",
+    name: "Jazz rock",
+    children: []
+  },
+  {
+    id: "Math_rockRock",
+    name: "Math rock",
+    children: []
+  },
+  {
+    id: "New_waveRock",
+    name: "New wave",
+    children: []
+  },
+  {
+    id: "World_fusionNew_wave",
+    name: "World fusion",
+    children: []
+  },
+  {
+    id: "Paisley_UndergroundRock",
+    name: "Paisley Underground",
+    children: []
+  },
+  {
+    id: "Desert_rockRock",
+    name: "Desert rock",
+    children: []
+  },
+  {
+    id: "Pop_rockRock",
+    name: "Pop rock",
+    children: []
+  },
+  {
+    id: "Power_popRock",
+    name: "Power pop",
+    children: []
+  },
+  {
+    id: "Progressive_rockRock",
+    name: "Progressive rock",
+    children: []
+  },
+  {
+    id: "Canterbury_sceneProgressive_rock",
+    name: "Canterbury scene",
+    children: []
+  },
+  {
+    id: "KrautrockProgressive_rock",
+    name: "Krautrock",
+    children: []
+  },
+  {
+    id: "New_progProgressive_rock",
+    name: "New prog",
+    children: []
+  },
+  {
+    id: "Rock_in_OppositionProgressive_rock",
+    name: "Rock in Opposition",
+    children: []
+  },
+  {
+    id: "Space_rockProgressive_rock",
+    name: "Space rock",
+    children: []
+  },
+  {
+    id: "Psychedelic_rockRock",
+    name: "Psychedelic rock",
+    children: []
+  },
+  {
+    id: "Acid_rockPsychedelic_rock",
+    name: "Acid rock",
+    children: []
+  },
+  {
+    id: "FreakbeatPsychedelic_rock",
+    name: "Freakbeat",
+    children: []
+  },
+  {
+    id: "Neo-psychedeliaPsychedelic_rock",
+    name: "Neo-psychedelia",
+    children: []
+  },
+  {
+    id: "Raga_rockPsychedelic_rock",
+    name: "Raga rock",
+    children: []
+  },
+  {
+    id: "Punk_rockRock",
+    name: "Punk rock",
+    children: []
+  },
+  {
+    id: "Anarcho_punkPunk_rock",
+    name: "Anarcho punk",
+    children: []
+  },
+  {
+    id: "Crust_punkAnarcho_punk",
+    name: "Crust punk",
+    children: []
+  },
+  {
+    id: "D-beatCrust_punk",
+    name: "D-beat",
+    children: []
+  },
+  {
+    id: "Art_punkPunk_rock",
+    name: "Art punk",
+    children: []
+  },
+  {
+    id: "Christian_punkPunk_rock",
+    name: "Christian punk",
+    children: []
+  },
+  {
+    id: "DeathrockPunk_rock",
+    name: "Deathrock",
+    children: []
+  },
+  {
+    id: "Digital_hardcorePunk_rock",
+    name: "Digital hardcore",
+    children: []
+  },
+  {
+    id: "Folk_punkPunk_rock",
+    name: "Folk punk",
+    children: []
+  },
+  {
+    id: "Celtic_punkFolk_punk",
+    name: "Celtic punk",
+    children: []
+  },
+  {
+    id: "CowpunkFolk_punk",
+    name: "Cowpunk",
+    children: []
+  },
+  {
+    id: "Gypsy_punkFolk_punk",
+    name: "Gypsy punk",
+    children: []
+  },
+  {
+    id: "Garage_punkPunk_rock",
+    name: "Garage punk",
+    children: []
+  },
+  {
+    id: "GrindcorePunk_rock",
+    name: "Grindcore",
+    children: []
+  },
+  {
+    id: "CrustgrindGrindcore",
+    name: "Crustgrind",
+    children: []
+  },
+  {
+    id: "NoisegrindGrindcore",
+    name: "Noisegrind",
+    children: []
+  },
+  {
+    id: "Hardcore_punkPunk_rock",
+    name: "Hardcore punk",
+    children: []
+  },
+  {
+    id: "Post-hardcoreHardcore_punk",
+    name: "Post-hardcore",
+    children: []
+  },
+  {
+    id: "EmoPost-hardcore",
+    name: "Emo",
+    children: []
+  },
+  {
+    id: "ScreamoEmo",
+    name: "Screamo",
+    children: []
+  },
+  {
+    id: "ThrashcoreHardcore_punk",
+    name: "Thrashcore",
+    children: []
+  },
+  {
+    id: "Crossover_thrashHardcore_punk",
+    name: "Crossover thrash",
+    children: []
+  },
+  {
+    id: "PowerviolenceHardcore_punk",
+    name: "Powerviolence",
+    children: []
+  },
+  {
+    id: "Street_punkHardcore_punk",
+    name: "Street punk",
+    children: []
+  },
+  {
+    id: "Horror_punkPunk_rock",
+    name: "Horror punk",
+    children: []
+  },
+  {
+    id: "Pop_punkPunk_rock",
+    name: "Pop punk",
+    children: []
+  },
+  {
+    id: "PsychobillyPunk_rock",
+    name: "Psychobilly",
+    children: []
+  },
+  {
+    id: "Riot_grrrlPunk_rock",
+    name: "Riot grrrl",
+    children: []
+  },
+  {
+    id: "Ska_punkPunk_rock",
+    name: "Ska punk",
+    children: []
+  },
+  {
+    id: "Skate_punkPunk_rock",
+    name: "Skate punk",
+    children: []
+  },
+  {
+    id: "Post-punkRock",
+    name: "Post-punk",
+    children: []
+  },
+  {
+    id: "Gothic_rockPost-punk",
+    name: "Gothic rock",
+    children: []
+  },
+  {
+    id: "No_wavePost-punk",
+    name: "No wave",
+    children: []
+  },
+  {
+    id: "Noise_rockPost-punk",
+    name: "Noise rock",
+    children: []
+  },
+  {
+    id: "Rap_rockRock",
+    name: "Rap rock",
+    children: []
+  },
+  {
+    id: "RapcoreRap_rock",
+    name: "Rapcore",
+    children: []
+  },
+  {
+    id: "Rock_and_rollRock",
+    name: "Rock and roll",
+    children: []
+  },
+  {
+    id: "Southern_rockRock",
+    name: "Southern rock",
+    children: []
+  },
+  {
+    id: "Sufi_rockRock",
+    name: "Sufi rock",
+    children: []
+  },
+  {
+    id: "Surf_rockRock",
+    name: "Surf rock",
+    children: []
+  },
+  {
+    id: "Visual_keiRock",
+    name: "Visual kei",
+    children: []
+  },
+  {
+    id: "Nagoya_keiVisual_kei",
+    name: "Nagoya kei",
+    children: []
+  },
+  {
+    id: "WorldbeatRock",
+    name: "Worldbeat",
+    children: []
+  },
+
+  ]
+}

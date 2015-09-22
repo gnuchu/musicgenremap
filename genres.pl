@@ -10,6 +10,8 @@ $dbh->do("CREATE TABLE genres (id integer primary key autoincrement, name varcha
 $dbh->do("CREATE TABLE genrehassubgenre(parent_id integer, child_id integer)");
 $dbh->do("CREATE INDEX genrehassubgenre_idx on genrehassubgenre(parent_id, child_id)");
 
+open(my $nodefile, ">", "nodes.json") || die "Couldn't create output file.";
+
 sub count_starting_spaces {
   my $str = shift;
   $str =~ /^(\s*)/;
@@ -38,12 +40,40 @@ sub insert_relation_record {
   $dbh->do($statement);
 }
 
+sub add_id {
+  my $id = shift;
+  my $line = qq|{\n\tid: "$id",\n|;
+  return $line;
+
+}
+
+sub add_name {
+  my $name = shift;
+  my $line = qq|\tname: "$name",\n|;
+  return $line;
+
+}
+
+sub add_child { 
+  my $line = qq|\tchildren: []\n},\n|;
+  return $line;
+}
+
+sub create_id {
+  my $first = shift;
+  my $second = shift;
+
+  my $id = $first . $second;
+  $id =~ s/\s/_/g;
+  return $id;
+}
 
 my %parents = ();
 my $first = 1;
 my $last_level = 0;
 my $my_parent = "";
 my $last_level_name = "";
+my $json; #not json just a scalar.
 
 while(<DATA>) {
   chomp;
@@ -57,7 +87,7 @@ while(<DATA>) {
     if($first) {
       $parents{$level} = $g;
       $first = 0;
-      $my_parent = "I don't have a parent so I must be the root node.";
+      $my_parent = "null";
     }
     else {
       $my_parent = $parents{$level};
@@ -75,10 +105,17 @@ while(<DATA>) {
     insert_relation_record($clean_value, $my_parent);
   }
 
+  $json .= add_id(create_id($clean_value, $my_parent));
+  $json .= add_name($clean_value);
+  $json .= add_child();
+
   $last_level = $level;
   $last_level_name = $clean_value;
 
 }
+
+print $nodefile $json;
+close($nodefile);
 
 
 __DATA__

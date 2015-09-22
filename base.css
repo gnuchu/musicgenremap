@@ -4,7 +4,7 @@ html, body {
     font-family: "Lucida Grande", Verdana;
     font-size: 0.9em;
     text-align: center;
-    background-color:#F2F2F2;
+    background-color:#000;
 }
 
 input, select {
@@ -28,54 +28,10 @@ a {
 }
 
 #container {
-    width: 1400px;
-    height: 800px;
+    width: 2000;
+    height: 2000px;
     margin:0 auto;
     position:relative;
-}
-
-#left-container, 
-#right-container, 
-#center-container {
-    height:800px;
-    position:absolute;
-    top:0;
-}
-
-#left-container, #right-container {
-    width:200px;
-    color:#686c70;
-    text-align: left;
-    overflow: auto;
-    background-color:#fff;
-    background-repeat:no-repeat;
-    border-bottom:1px solid #ddd;
-}
-
-#left-container {
-    left:0;
-    background-image:url('col2.png');
-    background-position:center right;
-    border-left:1px solid #ddd;
-    
-}
-
-#right-container {
-    right:0;
-    background-image:url('col1.png');
-    background-position:center left;
-    border-right:1px solid #ddd;
-}
-
-#right-container h4{
-    text-indent:8px;
-}
-
-#center-container {
-    width:1000px;
-    left:200px;
-    background-color:#1a1a1a;
-    color:#ccc;
 }
 
 .text {
@@ -98,11 +54,12 @@ a {
 
 
 #infovis {
-    position:relative;
-    width:600px;
-    height:600px;
+    position:absolute;
+    width:2000px;
+    height:2000px;
     margin:auto;
     overflow:hidden;
+    background-color: #f2f2f2;
 }
 
 /*TOOLTIPS*/
